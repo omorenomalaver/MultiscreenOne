@@ -1,0 +1,2 @@
+C:\workshop\code\Visual Studio\2015\Xamarin Xutorials\MultiscreenOne\MultiscreenOne\MultiscreenOne.WinPhone\MultiscreenOne.WinPhone.csproj;neutral
+C:\workshop\code\Visual Studio\2015\Xamarin Xutorials\MultiscreenOne\MultiscreenOne\MultiscreenOne\MultiscreenOne.csproj;neutral
